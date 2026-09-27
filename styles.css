@@ -245,6 +245,15 @@ h2 {
   font-weight: 700;
 }
 
+.card a.btn {
+  display: block;
+  width: fit-content;
+  max-width: 100%;
+  margin-inline: auto;
+  color: #fff;
+  text-align: center;
+}
+
 .local-cta-wrap {
   background: linear-gradient(120deg, #184b5d, #1d7f7a 55%, #2aa69f);
   color: #fff;
